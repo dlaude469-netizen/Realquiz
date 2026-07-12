@@ -54,9 +54,9 @@ def keep_alive():
 # ================================
 
 ADMIN_LIST = {
-    "8739344756": {"name": "Axu", "email": "axu@realquiz.net", "tier": "PREMIUM"},
-    "9876543210": {"name": "Goku", "email": "goku@realquiz.net", "tier": "OWNER"},
-    "5555555555": {"name": "Vegeta", "email": "vegeta@realquiz.net", "tier": "PREMIUM"},
+    "8739344756"
+    "9876543210"
+
 }
 
 # ================================
